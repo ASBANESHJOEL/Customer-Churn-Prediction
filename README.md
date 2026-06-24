@@ -6,6 +6,11 @@ Predict whether a customer will leave a service based on historical customer dat
 ## Dataset
 Telco Customer Churn Dataset
 
+## Technologies Used
+• Python
+• Pandas
+• Scikit-learn
+
 ## Algorithm Used
 - Logistic Regression
 
